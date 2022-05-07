@@ -1,3 +1,8 @@
+#include <iostream>
+using namespace std;
+#include "lib.h"
+
+
 int main(){
     char c;
     cin>>c;
